@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET2U3_ASPNET_1ejemplo", "NET2U3_ASPNET_1ejemplo\NET2U3_ASPNET_1ejemplo.csproj", "{F5CAF4EE-D354-41BE-9890-5FC4E998A374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET2U3_ASPNET_controles", "NET2U3_ASPNET_controles\NET2U3_ASPNET_controles.csproj", "{80551F48-36B1-43D4-B903-161F7CCFB366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CAF4EE-D354-41BE-9890-5FC4E998A374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CAF4EE-D354-41BE-9890-5FC4E998A374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CAF4EE-D354-41BE-9890-5FC4E998A374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CAF4EE-D354-41BE-9890-5FC4E998A374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80551F48-36B1-43D4-B903-161F7CCFB366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80551F48-36B1-43D4-B903-161F7CCFB366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80551F48-36B1-43D4-B903-161F7CCFB366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80551F48-36B1-43D4-B903-161F7CCFB366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36FC1E3E-1C25-42AC-AF6B-6663FA53E16C}
+	EndGlobalSection
+EndGlobal
